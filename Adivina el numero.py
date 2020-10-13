@@ -45,3 +45,4 @@ if estimación != número:
     número = str(número)
 
     print('Pues no. El número que estaba pensando era ' + número)
+    print("Bad Luck My Brother")
